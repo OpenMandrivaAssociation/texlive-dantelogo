@@ -1,6 +1,6 @@
 Name:		texlive-dantelogo
 Version:	38599
-Release:	1
+Release:	2
 Summary:	A font for DANTE's logo
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dantelogo
