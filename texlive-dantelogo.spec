@@ -3,7 +3,7 @@ Version:	38599
 Release:	2
 Summary:	A font for DANTE's logo
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dantelogo
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dantelogo
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dantelogo.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dantelogo.doc.r%{version}.tar.xz
